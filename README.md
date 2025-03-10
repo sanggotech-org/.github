@@ -1,7 +1,7 @@
 ### About Us
 Sanggo is an IT services provider with a focus on software development, SaaS development, web and mobile app development, UI/UX design, and IT consulting.
 
-## our services  
+## Our Services  
 
 ### development  
 web & mobile apps, erp/crm, blockchain, ai/ml, cloud, saas  
