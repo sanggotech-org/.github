@@ -1,12 +1,27 @@
-## Hi there 👋
+### About Us
+Sanggo is an IT services provider with a focus on software development, SaaS development, web and mobile app development, UI/UX design, and IT consulting.
 
-<!--
+## Our Services  
 
-**Here are some ideas to get you started:**
+### development  
+web & mobile apps, erp/crm, blockchain, ai/ml, cloud, saas  
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### data services  
+analytics, warehousing, migration, big data, db admin  
+
+### design  
+ui/ux, prototyping, website & app design  
+
+### e-commerce  
+e-commerce dev & platform integration  
+
+### digital marketing  
+seo, social media, email, content marketing  
+
+### Imp. Links
+- Website: [www.sanggotech.com](https://sanggotech.com/)
+- Email: [sanggotech@gmail.com](mailto:sanggotech@gmail.com)
+- Linkedin: [@sanggo](https://www.linkedin.com/company/sanggo)
+- X: [@sanggotech](https://x.com/sanggotech)
+- Instagram: [@sanggotech](https://www.instagram.com/sanggotech/)
+- Facebook: [@sanggotech](https://www.facebook.com/sanggotech)
